@@ -4,17 +4,15 @@
             <!-- FOOTER CONTENT -->
             <div class="row">
                 <!-- FOOTER LOGO -->
-                <div class="col-xl-3">
+                <!-- <div class="col-xl-3">
                     <div class="footer-info">
                         <img class="footer-logo" src="/assets/images/logo-pink.png" alt="footer-logo" />
                     </div>
-                </div>
+                </div> -->
                 <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-3 col-xl-2">
+                <!-- <div class="col-sm-4 col-lg-3 col-xl-2">
                     <div class="footer-links fl-1">
-                        <!-- Title -->
                         <h6 class="s-17 w-700">Company</h6>
-                        <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
                                 <p><NuxtLink to="/about">About Us</NuxtLink></p>
@@ -30,14 +28,12 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <!-- END FOOTER LINKS -->
                 <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-2">
+                <!-- <div class="col-sm-4 col-lg-2">
                     <div class="footer-links fl-2">
-                        <!-- Title -->
                         <h6 class="s-17 w-700">Product</h6>
-                        <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
                                 <p><NuxtLink to="/features">Integration</NuxtLink></p>
@@ -53,14 +49,12 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <!-- END FOOTER LINKS -->
                 <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-3 col-xl-2">
+                <!-- <div class="col-sm-4 col-lg-3 col-xl-2">
                     <div class="footer-links fl-3">
-                        <!-- Title -->
                         <h6 class="s-17 w-700">Legal</h6>
-                        <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
                                 <p><NuxtLink to="/terms">Terms of Use</NuxtLink></p>
@@ -76,14 +70,12 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <!-- END FOOTER LINKS -->
                 <!-- FOOTER NEWSLETTER FORM -->
-                <div class="col-sm-10 col-md-8 col-lg-4 col-xl-3">
+                <!-- <div class="col-sm-10 col-md-8 col-lg-4 col-xl-3">
                     <div class="footer-form">
-                        <!-- Title -->
                         <h6 class="s-17 w-700">Follow the Best</h6>
-                        <!-- Newsletter Form Input -->
                         <form class="newsletter-form">
                             <div class="input-group r-06">
                                 <input type="email" class="form-control" placeholder="Email Address" required id="s-email" />
@@ -93,11 +85,10 @@
                                     </button>
                                 </span>
                             </div>
-                            <!-- Newsletter Form Notification -->
                             <label for="s-email" class="form-notification"></label>
                         </form>
                     </div>
-                </div>
+                </div> -->
                 <!-- END FOOTER NEWSLETTER FORM -->
             </div>
             <!-- END FOOTER CONTENT -->
@@ -109,24 +100,24 @@
                     <!-- FOOTER COPYRIGHT -->
                     <div class="col">
                         <div class="footer-copyright">
-                            <p class="p-sm">&copy; 2024 Martex. <span>All Rights Reserved</span></p>
+                            <p class="p-sm">&copy; 2024 Kauan Rodrigues. <span>Todos os Direitos Reservados</span></p>
                         </div>
                     </div>
                     <!-- FOOTER SOCIALS -->
                     <div class="col">
                         <ul class="bottom-footer-socials ico-20 text-end">
-                            <li>
+                            <!-- <li>
                                 <a href="#"><span class="flaticon-facebook"></span></a>
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <a href="#"><span class="flaticon-twitter"></span></a>
-                            </li>
+                            </li> -->
                             <li>
-                                <a href="#"><span class="flaticon-instagram"></span></a>
+                                <a href="https://instagram.com/kauanfrodrigues98" target="_blank"><span class="flaticon-instagram"></span></a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="#"><span class="flaticon-youtube"></span></a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
