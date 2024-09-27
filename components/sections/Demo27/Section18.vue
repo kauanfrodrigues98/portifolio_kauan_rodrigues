@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Questions & Answers</h2>
+                        <h2 class="s-50 w-700">Perguntas & Respostas</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Um pouco mais sobre mim.</p>
                     </div>
                 </div>
             </div>

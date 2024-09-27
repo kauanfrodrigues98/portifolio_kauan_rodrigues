@@ -18,7 +18,7 @@
                                         <p class="mb-0">Sou uma pessoa dedicada, apaixonado pelo que faço, sempre busco aprender e gosto de ser desafiado.</p>
                                     </li>
                                     <li class="list-item">
-                                        <p class="mb-0">Nessa minha jornada como desenvolvedor, além de trabalhar com vários setores do mercado, tambemb pude atuar com várias tecnologias diferentes, ferramentas e situações que colocaram a prova a minha dedicação e força de vontade para serem solucionadas.</p>
+                                        <p class="mb-0">Nessa minha jornada como desenvolvedor, além de trabalhar com vários setores do mercado, tambem pude atuar com várias tecnologias diferentes, ferramentas e situações que colocaram a prova a minha dedicação e força de vontade para serem solucionadas.</p>
                                     </li>
                                     <li class="list-item">
                                         <p class="mb-0">Sou o cara certo para trabalhar em equipe, já que gosto de trocar ideias, passar e receber conhecimento, até porque já trabalhei gerenciando equipes durante bastante tempo em vários projetos simultaneos.</p>
