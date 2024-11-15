@@ -15,7 +15,7 @@
                                 <!-- Text -->
                                 <p class="p-xl">Entre em contato agora mesmo para um freelancer ou Contrato PJ</p>
                                 <!-- Button -->
-                                <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--tra-white">Entrar em Contato</NuxtLink>
+                                <NuxtLink to="https://wa.me/5581995982036" target="_blank" class="btn r-04 btn--theme hover--tra-white">Entrar em Contato</NuxtLink>
                                 <!-- Button Text -->
                                 <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> Você não vai se arrepender.</p>
                             </div>
